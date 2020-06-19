@@ -61,5 +61,5 @@ Today’s Progress: finsihed MS - Python
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
 
