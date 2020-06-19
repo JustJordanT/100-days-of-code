@@ -37,6 +37,6 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](100%20Days%20Of%20Code%20-%20Log)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
