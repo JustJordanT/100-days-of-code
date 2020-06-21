@@ -34,7 +34,7 @@ Topics covered.
 
 **Link to work:** [MS - Python](https://github.com/JustJordanT/c9-python-getting-started)
 
-### Day 2⃣ / 1⃣0⃣0⃣: Jun 18, 2020
+### Day 2 / 100: Jun 18, 2020
 **Today's Progress**: finsihed MS - [[Python]] Course
 
 Day :  - Jun 18, 2020
@@ -54,12 +54,39 @@ Today’s Progress: finsihed MS - Python
 **Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
 
 #### Topics covered.
-- Coved week 1,2,3 from PY4E
+- Coved week 1,2,3,4 from PY4E
 - How computer langueges communicate with hardware.
 - Python programming structure.
 
 
-**Thoughts:** 
+**Thoughts:** PY4E is a pretty good overview from the MS - Python cources is a little more detailed showing you things they think you would not know.
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
 
+### Day 4 / 100: Jun 20, 2020
+**Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+- Coved week 5,6,7 
+- Expressions
+- Conditional Execution
+- Functions 
+- Try,Except
+
+**Thoughts:** This cource is a little more indepth then the MS-Python. Goes a little more deeper than the other cource. Thinking of making a python game for animal guessing game.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 5 / 100: Jun 21, 2020
+
+**Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- stings.
+- 
+
+**Thoughts:** This cource is a little more indepth then the MS-Python. Goes a little more deeper than the other cource. Thinking of making a python game for animal guessing game.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
