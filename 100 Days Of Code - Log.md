@@ -85,8 +85,8 @@ Today’s Progress: finsihed MS - Python
 
 - Going over Phython Data strucutres on coursera.
 - stings.
-- 
+- Slicing strings
 
-**Thoughts:** This cource is a little more indepth then the MS-Python. Goes a little more deeper than the other cource. Thinking of making a python game for animal guessing game.
+**Thoughts:** Completed the 1st course, 3 more to go currently on Python data structurs.
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
