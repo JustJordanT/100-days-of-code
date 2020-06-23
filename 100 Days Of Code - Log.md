@@ -93,7 +93,7 @@ Today’s Progress: finsihed MS - Python
 
 ### Day 6 / 100: Jun 22, 2020
 
-**Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
+**Today's Progress**: Working on the following cource.  Python-for-Everybody-Specialization from coursera.
 
 #### Topics covered.
 
