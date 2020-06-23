@@ -90,3 +90,18 @@ Today’s Progress: finsihed MS - Python
 **Thoughts:** Completed the 1st course, 3 more to go currently on Python data structurs.
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 6 / 100: Jun 22, 2020
+
+**Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- assignment 6.5, coving stings and slicing.
+- completed week 1,2,3
+- wokring with files.
+
+**Thoughts:** Completed the 1st course, 3 more to go currently on Python data structurs.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
