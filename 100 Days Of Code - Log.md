@@ -100,7 +100,7 @@ Today’s Progress: finsihed MS - Python
 - Going over Phython Data strucutres on coursera.
 - assignment 6.5, coving stings and slicing.
 - completed week 1,2,3
-- wokring with files.
+- wokring with files.yes
 - for loops
 
 **Thoughts:** Completed the 1st course, 3 more to go currently on Python data structurs.
