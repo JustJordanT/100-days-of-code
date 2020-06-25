@@ -125,7 +125,7 @@ Today’s Progress: finsihed MS - Python
 
 
 
-### Day 7 / 100: Jun 23, 2020
+### Day 8 / 100: Jun 24, 2020
 
 **Today's Progress**: Working on the following cource.  Python-for-Everybody-Specialization from coursera.
 
@@ -144,3 +144,41 @@ moving on to week 5.
 **Thoughts:** Still trying to get the structure of my code down so that writing code can become more fluid....
 
 **Link to work:** [Python-for-Everybody-Specialization]
+
+
+
+### Day 9 / 100: Jun 25, 2020
+
+**Today's Progress**: Working on the following cource.  Python-for-Everybody-Specialization from coursera.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- assignment 9.4
+- completed week 5
+- starting on week 6.
+- wokring on for loops and parseing thorugh data sets.
+
+moving on to week 6.
+
+**Thoughts:** Lists and dicts, and how to parse through them.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 10 / 100: Jun 25, 2020
+
+**Today's Progress**: 
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- 
+
+**Thoughts:** ---
+
+**Link to work:** [Python-for-Everybody-Specialization](
