@@ -169,7 +169,7 @@ moving on to week 6.
 
 
 
-### Day 10 / 100: Jun 25, 2020
+### Day 10 / 100: Jun 26, 2020
 
 **Today's Progress**: 
 
@@ -177,8 +177,29 @@ moving on to week 6.
 
 #### Topics covered.
 
-- 
+- tuples
+- string slicing 
+- string manipulation 
+- Regex
 
 **Thoughts:** ---
 
-**Link to work:** [Python-for-Everybody-Specialization](
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 11 / 100: Jun 27, 2020
+
+**Today's Progress**: 
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Completed Python Data Structures
+- Regex
+- lists
+- string manipulation 
+- File Parsing
+
+**Thoughts:** Very useful course on data sets Tuples,Dicts,lists
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
