@@ -203,3 +203,35 @@ moving on to week 6.
 **Thoughts:** Very useful course on data sets Tuples,Dicts,lists
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 12 / 100: Jun 28, 2020
+
+**Today's Progress**: Using Python to Access Web Data
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Networks. 
+- Sockets.
+- HTTP Protocal.
+- Beautiful Soup
+- WebScrapping.
+
+**Thoughts:** Need more practise for using files and opening and reading them.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 13 / 100: Jun 29, 2020
+
+**Today's Progress**: Using Python to Access Web Data
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- 
+
+**Thoughts:** 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
