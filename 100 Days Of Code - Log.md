@@ -230,8 +230,30 @@ moving on to week 6.
 
 #### Topics covered.
 
-- 
+- Python XML
+- JSON
+- HTML in Python
+- working on week 5
+- webScapping
 
 **Thoughts:** 
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 14 / 100: Jun 30, 2020
+
+**Today's Progress**: Using Python to Access Web Data
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- More Python XML
+- Looking into JSON
+- HTML in Python
+- working on week 5
+- webScapping
+
+**Thoughts:** Thinking about getting a degree in CS
+
+**Link to work:** [Python-for-Everybody-Specialization](
