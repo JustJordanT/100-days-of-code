@@ -277,15 +277,91 @@ moving on to week 6.
 
 ### Day 16 / 100: Jun 2, 2020
 
-**Today's Progress**: Using Python to Access Web Data
+**Today's Progress**: Using Databases with Python.
 
 [Course PY4E - Python For Everybody](www.py4e.com)
 
 #### Topics covered.
 
-- ----
+- OOP -(Object Oriented Programming)
+
+- Python Classes 
+
+- Methods
+
+- Attributes
+
+- Python integrstion with SQL Databases.
+
+  ----
 
 **Thoughts:** Thinking about getting a degree in CS
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 17 / 100: Jun 3, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Lex Fridman and David Silver intervew on YT.
+
+- Python Projects
+
+- DataBases With Python. 
+
+- Project Managemt Class as well.
+
+  ----
+
+**Thoughts**: Looking into more ML Project and What to do. 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 18 / 100: Jun 4, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- SQL
+
+- Database Models
+
+- SQL Scheme
+
+- Project Management 
+
+  ----
+
+**Thoughts**: Looking into more ML Project and What to do. 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 19 / 100: Jun 5, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- 
+
+  ----
+
+**Thoughts**: 
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
 
