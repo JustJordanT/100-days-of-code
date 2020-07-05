@@ -7,48 +7,371 @@ Z
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-If you want to help by providing a translation of content/rules in the language you know, submit a pull request (or DM me on Twitter @ka11away), adding a sub-folder in the 'intl' folder with the files of the translation there.
 
-## If you've decided to join:
+# 100 Days Of Code - Log
 
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/zt-eivg7x1x-wgNPDh7ug_u4GcUwZNT8Zg) is a invite link to the 100DaysOfCode Slack channel
-1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the [Log](100%20Days%20Of%20Code%20-%20Log) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3.  **Code minimum an hour every day for the next 100 days.**
-4.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5.  Change the date in [Rules](rules.md) to the day you've started the challenge.
-6.  Delete the examples in the log, or comment them out, and start filling it with your own content.
-7.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9.  Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+### Day 0: Jun 16, 2020
+**Today's Progress**: Going over the MS - [[Python]] Course
 
-## ⚡ Interested in meaningfully changing your life & getting the results you want?
+Topics covered.
 
-I publish a newsletter called [Do the Opposite](https://dotheopposite.substack.com/) every other week. It's main focus is providing practical tips and techniques for improving the quality of your life - drawing from a wide variety of themes, listed below.
-
-The themes covered are:
-- **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
-- **Book Recommendations & Takeaways**. Get awesome book recommendations and golden nuggets of wisdom extracted from these books so you can put them into action right away!
-- **Personal Finance**. Even tiny change you make about how you manage your money will bring mind-boggling results over time. Find out what these changes are!
-- **Starting a Business**. Whether you're a wanna-be indie maker or want to become the next Elon Musk, you will find some great resources here!
-- **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
-- **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
-- **Other topics**. Psychology, learning to code, alternative lifestyles and more.
-
-Join the Do the Opposite Community!
-
-💌 [SUBSCRIBE to the newsletter and start changing your life!](https://dotheopposite.substack.com/)
+- Functions
+- Modules
+- Packages
 
 
-## Want to change other habits?
+**Thoughts:** Since this is not my first time using python some of the topics are high level. nevertheless I still want to make sure I am getting a sound fundation on this.  
 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+**Link to work:** [MS - Python](https://github.com/JustJordanT/c9-python-getting-started)
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more!
+### Day 1: Jun 17, 2020
+**Today's Progress**: Going over the MS - [[Python]] Course
 
-## Note
+Topics covered.
 
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
+- Python Virtual Env
+- API's
+	- API fucntions
+	- peramiters
+	- Tokens
+	- requests libary
+- Computer Vision - (Azure)
+	- Service that you area able to call with an API. 
+- Packages
+
+
+**Thoughts:** Went throught the the rest of the rest of the MS - [[Pyhthon]] course. went well I think I will be going back over to the MIT lecture after I am completly done with this one.
+
+**Link to work:** [MS - Python](https://github.com/JustJordanT/c9-python-getting-started)
+
+### Day 2 / 100: Jun 18, 2020
+**Today's Progress**: finsihed MS - [[Python]] Course
+
+Day :  - Jun 18, 2020
+Today’s Progress: finsihed MS - Python
+
+#### Topics covered.
+- Python-dotenv
+- Secure Keys for APIs
+- communities
+- Looked to next Python Cource to reinfource Python Knowledge
+- 
+**Thoughts:** Overall this cource was pretty good, videos are very good quality, good resources. I want to go through one more cource on [[Python]].
+
+**Link to work:** [MS - Python](https://github.com/JustJordanT/c9-python-getting-started)
+
+### Day 3 / 100: Jun 19, 2020
+**Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+- Coved week 1,2,3,4 from PY4E
+- How computer langueges communicate with hardware.
+- Python programming structure.
+
+
+**Thoughts:** PY4E is a pretty good overview from the MS - Python cources is a little more detailed showing you things they think you would not know.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 4 / 100: Jun 20, 2020
+**Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+- Coved week 5,6,7 
+- Expressions
+- Conditional Execution
+- Functions 
+- Try,Except
+
+**Thoughts:** This cource is a little more indepth then the MS-Python. Goes a little more deeper than the other cource. Thinking of making a python game for animal guessing game.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 5 / 100: Jun 21, 2020
+
+**Today's Progress**: Started the Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- stings.
+- Slicing strings
+
+**Thoughts:** Completed the 1st course, 3 more to go currently on Python data structurs.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 6 / 100: Jun 22, 2020
+
+**Today's Progress**: Working on the following cource.  Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- assignment 6.5, coving stings and slicing.
+- completed week 1,2,3
+- wokring with files.yes
+- for loops
+
+**Thoughts:** Completed the 1st course, 3 more to go currently on Python data structurs.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 7 / 100: Jun 23, 2020
+
+**Today's Progress**: Working on the following cource.  Python-for-Everybody-Specialization from coursera.
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- assignment 6.5, coving stings and slicing.
+- completed week 1,2,3
+- working with files from week 4.
+- for loops
+
+**Thoughts:** Completed the 1st course, 3 more to go currently on Python data structurs.
+
+**Link to work:** [Python-for-Everybody-Specialization]
+
+
+
+### Day 8 / 100: Jun 24, 2020
+
+**Today's Progress**: Working on the following cource.  Python-for-Everybody-Specialization from coursera.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- assignment 8.5.
+- completed week 4
+- working with files from week 4.
+- Slicing lists
+
+moving on to week 5.
+
+**Thoughts:** Still trying to get the structure of my code down so that writing code can become more fluid....
+
+**Link to work:** [Python-for-Everybody-Specialization]
+
+
+
+### Day 9 / 100: Jun 25, 2020
+
+**Today's Progress**: Working on the following cource.  Python-for-Everybody-Specialization from coursera.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Going over Phython Data strucutres on coursera.
+- assignment 9.4
+- completed week 5
+- starting on week 6.
+- wokring on for loops and parseing thorugh data sets.
+
+moving on to week 6.
+
+**Thoughts:** Lists and dicts, and how to parse through them.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 10 / 100: Jun 26, 2020
+
+**Today's Progress**: 
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- tuples
+- string slicing 
+- string manipulation 
+- Regex
+
+**Thoughts:** ---
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 11 / 100: Jun 27, 2020
+
+**Today's Progress**: 
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Completed Python Data Structures
+- Regex
+- lists
+- string manipulation 
+- File Parsing
+
+**Thoughts:** Very useful course on data sets Tuples,Dicts,lists
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 12 / 100: Jun 28, 2020
+
+**Today's Progress**: Using Python to Access Web Data
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Networks. 
+- Sockets.
+- HTTP Protocal.
+- Beautiful Soup
+- WebScrapping.
+
+**Thoughts:** Need more practise for using files and opening and reading them.
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 13 / 100: Jun 29, 2020
+
+**Today's Progress**: Using Python to Access Web Data
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Python XML
+- JSON
+- HTML in Python
+- working on week 5
+- webScapping
+
+**Thoughts:** 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 14 / 100: Jun 30, 2020
+
+**Today's Progress**: Using Python to Access Web Data
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- More Python XML
+- Looking into JSON
+- HTML in Python
+- working on week 5
+- webScapping
+
+**Thoughts:** Thinking about getting a degree in CS
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 15 / 100: Jun 1, 2020
+
+**Today's Progress**: Using Python to Access Web Data
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- APIs
+- Google GeoAPI
+- Twitter API.
+- working on week 6
+
+**Thoughts:** Thinking about getting a degree in CS
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 16 / 100: Jun 2, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- OOP -(Object Oriented Programming)
+
+- Python Classes 
+
+- Methods
+
+- Attributes
+
+- Python integrstion with SQL Databases.
+
+  ----
+
+**Thoughts:** Thinking about getting a degree in CS
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 17 / 100: Jun 3, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Lex Fridman and David Silver intervew on YT.
+
+- Python Projects
+
+- DataBases With Python. 
+
+- Project Managemt Class as well.
+
+  ----
+
+**Thoughts**: Looking into more ML Project and What to do. 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 18 / 100: Jun 4, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- SQL
+
+- Database Models
+
+- SQL Scheme
+
+- Project Management 
+
+  ----
+
+**Thoughts**: Looking into more ML Project and What to do. 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 19 / 100: Jun 5, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- 
+
+  ----
+
+**Thoughts**: 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
