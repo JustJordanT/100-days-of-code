@@ -7,6 +7,7 @@ Z
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+# Cources Completed
 
 # 100 Days Of Code - Log
 
