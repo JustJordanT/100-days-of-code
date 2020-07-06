@@ -378,6 +378,8 @@ moving on to week 6.
 
 - OOP
 
+  ![image-20200706001021532](image-20200706001021532.png)
+  
   ----
 
 **Thoughts**: 
