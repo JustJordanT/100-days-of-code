@@ -370,7 +370,13 @@ moving on to week 6.
 
 #### Topics covered.
 
-- 
+- SQL 
+
+- Data Models
+
+- Sql syntax within Python
+
+- OOP
 
   ----
 
