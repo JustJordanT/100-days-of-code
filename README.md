@@ -386,3 +386,55 @@ moving on to week 6.
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
 
+
+
+
+
+### Day 20/ 100: Jun 6, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- SQL.
+
+- Data Models.
+
+- Sql syntax within Python.
+
+- Relational Databases.
+
+  ![image-20200706225039908](image-20200706225039908.png)
+
+  ----
+
+**Thoughts**: 
+
+**Link to work:** [Python-for-Everybody-Specialization](
+
+
+
+
+
+### Day 21/ 100: Jun 7, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- SQL.
+- Data Models.
+- Sql syntax within Python.
+- Relational Databases.
+- JOIN Tables 
+- SQL with XML Data.
+- New Blog site / Resume.
+
+**Thoughts**: 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
