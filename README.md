@@ -404,9 +404,7 @@ moving on to week 6.
 
 - Sql syntax within Python.
 
-- Relational Databases.
-
-  ![image-20200706225039908](image-20200706225039908.png)
+- Relational Databases
 
   ----
 
@@ -433,6 +431,25 @@ moving on to week 6.
 - JOIN Tables 
 - SQL with XML Data.
 - New Blog site / Resume.
+
+**Thoughts**: 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+### Day 22/ 100: Jun 8, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Many-to-Many Data Model. 
+- SQL
+- Python
+- SQLlight
+- JSON
+- XML
 
 **Thoughts**: 
 
