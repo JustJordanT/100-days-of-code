@@ -455,3 +455,22 @@ moving on to week 6.
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
 
+### Day 23/ 100: Jun 9, 2020
+
+**Today's Progress**: Using Databases with Python.
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Many-to-Many Data Model. 
+- SQL
+- Python
+- SQLlight
+- JSON
+- Python Visualization
+
+**Thoughts**: 
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
