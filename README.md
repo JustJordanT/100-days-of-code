@@ -474,3 +474,45 @@ moving on to week 6.
 
 **Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
 
+
+
+### Day 24/ 100: Jun 10, 2020
+
+**Today's Progress**: Completed the Python for Everybody Course 🥳, now I will be moving on to some more fundamentals for Python completing the course on Kaggle. 
+
+[Course PY4E - Python For Everybody](www.py4e.com)
+
+#### Topics covered.
+
+- Python Funamentles
+- Datasets
+- API
+- JSON
+
+**Thoughts**: Will be moving on to a more advance Python cource next week still wanting on my certificate from the Database cource from Coursera.  
+
+**Link to work:** [Python-for-Everybody-Specialization](https://github.com/JustJordanT/Python-for-Everybody-Specialization)
+
+
+
+### Day 25/ 100: Jun 11, 2020
+
+**Today's Progress**: Python Course on Kaggle.com
+
+#### Topics covered.
+
+- Python Syntax
+
+- variable assignment 
+
+- Numbers
+
+- More Conditions
+
+- Function 
+
+  
+
+**Thoughts**: Will be moving on to a more advance Python cource next week still wanting on my certificate from the Database cource from Coursera.  
+
+**Link to work:** [Python-for-Everybody-Specialization](
