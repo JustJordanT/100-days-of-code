@@ -515,4 +515,26 @@ moving on to week 6.
 
 **Thoughts**: Will be moving on to a more advance Python cource next week still wanting on my certificate from the Database cource from Coursera.  
 
-**Link to work:** [Python-for-Everybody-Specialization](
+**Link to work:**
+
+
+
+### Day 25/ 100: Jun 11, 2020
+
+**Today's Progress**: Python Course on Kaggle.com
+
+#### Topics covered.
+
+- Python Syntax
+
+- Lists
+
+- Dictionaries
+
+- Function 
+
+  
+
+**Thoughts**: 
+
+**Link to work:**
