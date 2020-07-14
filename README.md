@@ -519,7 +519,7 @@ moving on to week 6.
 
 
 
-### Day 25/ 100: Jun 11, 2020
+### Day 25/ 100: Jun 12, 2020
 
 **Today's Progress**: Python Course on Kaggle.com
 
@@ -536,5 +536,24 @@ moving on to week 6.
   
 
 **Thoughts**: 
+
+**Link to work:**
+
+### Day 25/ 100: Jun 13, 2020
+
+**Today's Progress**: Python Course on Kaggle.com
+
+#### Topics covered.
+
+- Python Syntax
+
+- Lists
+
+- Completed PY4E Certification 
+
+  
+
+
+**Thoughts**: Found some cources on Freecodecamp.com that I want to take. one on ML and Python. and more.
 
 **Link to work:**
