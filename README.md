@@ -557,3 +557,39 @@ moving on to week 6.
 **Thoughts**: Found some cources on Freecodecamp.com that I want to take. one on ML and Python. and more.
 
 **Link to work:**
+
+
+
+### Day 26/ 100: Jun 14, 2020
+
+**Today's Progress**:  Scientific Computing with Python Certification
+
+#### Topics covered.
+
+- Python Fundamentles
+
+- Calculator Application
+
+- Python built-ins
+
+- Completed FreeCodeCamp Python Certification
+
+  
+
+**Thoughts**: Learning more and more each day. need t
+
+**Link to work:**
+
+
+
+### Day 27/ 100: Jun 15, 2020
+
+**Today's Progress**:  Data Analysis with Python Course from FreeCodeCamp
+
+#### Topics covered.
+
+- Data Frames
+- Data Types
+- Jupyter notebooks
+- pandas
+- Bumpy
