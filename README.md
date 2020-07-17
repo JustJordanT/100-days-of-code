@@ -576,7 +576,7 @@ moving on to week 6.
 
   
 
-**Thoughts**: Learning more and more each day. need t
+**Thoughts**: Learning more and more each day. 
 
 **Link to work:**
 
@@ -593,3 +593,23 @@ moving on to week 6.
 - Jupyter notebooks
 - pandas
 - Bumpy
+
+**Thoughts**: 
+
+**Link to work:**
+
+### Day 28/ 100: Jun 16, 2020
+
+**Today's Progress**:  Python 3 Course from Coursera
+
+#### Topics covered.
+
+- Algorithms
+- Python Functions
+- Data Types
+- Docker
+- Ansible
+
+**Thoughts**: 
+
+**Link to work:**
