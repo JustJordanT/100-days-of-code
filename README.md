@@ -613,3 +613,18 @@ moving on to week 6.
 **Thoughts**: 
 
 **Link to work:**
+
+### Day 29/ 100: Jun 17, 2020
+
+**Today's Progress**:  Python 3 Course from Coursera / Some Light ML Reading.
+
+#### Topics covered.
+
+- Python Variables
+- Supersived learning 
+- Unsupervised learning
+- Variables names and keywords.
+
+**Thoughts**: 
+
+**Link to work:**
