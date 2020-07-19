@@ -628,3 +628,20 @@ moving on to week 6.
 **Thoughts**: 
 
 **Link to work:**
+
+
+
+### Day 30/ 100: Jun 18, 2020
+
+**Today's Progress**:  Python 3 Course from Coursera / Some Light ML Reading.
+
+#### Topics covered.
+
+- Python quizes
+- Machine Learning Road Map
+- Statments 
+- Expressions
+
+**Thoughts**: 
+
+**Link to work:**
