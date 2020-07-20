@@ -645,3 +645,20 @@ moving on to week 6.
 **Thoughts**: 
 
 **Link to work:**
+
+### Day 31/ 100: Jun 19, 2020
+
+**Today's Progress**:  Python 3 Course from Coursera
+
+#### Topics covered.
+
+- Python quizes
+- Supersived learning 
+- Unsupervised learning
+- Orders of Operation 
+- Varible Reassignment 
+- Updating Variables
+
+**Thoughts**: 
+
+**Link to work:**
