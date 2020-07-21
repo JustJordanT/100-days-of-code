@@ -662,3 +662,21 @@ moving on to week 6.
 **Thoughts**: 
 
 **Link to work:**
+
+### Day 32/ 100: Jun 20, 2020
+
+**Today's Progress**:  Python 3 Course from Coursera
+
+#### Topics covered.
+
+- functions
+
+- Perimeters 
+
+- Python projects
+
+  
+
+**Thoughts**: 
+
+**Link to work:**
