@@ -675,8 +675,48 @@ moving on to week 6.
 
 - Python projects
 
-  
-
 **Thoughts**: 
 
 **Link to work:**
+
+Day 33/ 100: Jul 21, 2020
+*Today's Progress*:  Python 3 Course from Coursera
+
+#### Topics covered.
+* Docker Refreash
+* nornir - network automation work.
+* python functions
+* conditions
+*Thoughts*:
+
+*Link to work:*
+
+
+Day 34/ 100: Jul 22, 2020
+*Today's Progress*:  Data Science 
+#### Topics covered.
+* Numpy
+* Pandas
+* Data Types
+* Arrays
+* FreeCodeCamp
+
+Notes: 
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+*Thoughts*:
+*Link to work:*
+
+Day 35/ 100: Jul 23, 2020
+*Today's Progress*:  Data Science 
+#### Topics covered.
+* Numpy
+* Pandas
+* Data Types
+* Arrays
+* Data Science Projects.
+* Data Visualization.
+* Seaborn
+
+Notes: 
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
