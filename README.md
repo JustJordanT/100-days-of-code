@@ -709,6 +709,7 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 Day 35/ 100: Jul 23, 2020
 *Today's Progress*:  Data Science 
+
 #### Topics covered.
 * Numpy
 * Pandas
@@ -720,3 +721,41 @@ Day 35/ 100: Jul 23, 2020
 
 Notes: 
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+Day 36/ 100: Jul 24, 2020
+*Today's Progress*:  Data Science 
+
+#### Topics covered.
+
+* Pandas
+* Arrays
+* Data Science Projects.
+* Seaborn
+* Python For loops
+
+Notes: 
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+Day 37/ 100: Jul 25, 2020
+*Today's Progress*:  Data Science 
+
+#### Topics covered.
+
+* Pandas
+* Data Science Projects
+* Python For loops
+* Lambda functions
+* indexing with Pandas
+* Series
+* Reading Data In Pandas
+
+Day 38/ 100: Jul 26, 2020
+*Today's Progress*:  Data Science 
+
+#### Topics covered.
+
+* Pandas
+* Series
+* Using functions in Pandas.
+* Sorting
+* Grouping
