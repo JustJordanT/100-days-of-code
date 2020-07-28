@@ -755,7 +755,28 @@ Day 38/ 100: Jul 26, 2020
 #### Topics covered.
 
 * Pandas
+
 * Series
+
 * Using functions in Pandas.
+
 * Sorting
+
 * Grouping
+
+  
+
+  
+
+  Day 39/ 100: Jul 27, 2020
+  *Today's Progress*:  Data Science 
+
+  #### Topics covered.
+
+  * Pandas
+  * Filtering Series
+  * Filtering DataFrames
+  * Using functions in Pandas.
+  * Sorting
+  * Grouping
+
