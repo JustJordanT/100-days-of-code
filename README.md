@@ -780,3 +780,19 @@ Day 38/ 100: Jul 26, 2020
   * Sorting
   * Grouping
 
+Day 40/ 100: Jul 28, 2020
+*Today's Progress*:  Data Science 
+
+#### Topics covered.
+
+* Filtering Series
+
+* Filtering DataFrames
+
+* Sorting
+
+* Grouping
+
+* supervised learning
+
+* #### Semi-supervised learning
