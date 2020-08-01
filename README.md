@@ -796,3 +796,40 @@ Day 40/ 100: Jul 28, 2020
 * supervised learning
 
 * #### Semi-supervised learning
+
+
+
+Day 41/ 100: Jul 29, 2020
+*Today's Progress*:  Data Science 
+
+#### Topics covered.
+
+* numpy
+* Lambda functions 
+* List comprehentions
+* Functions.
+
+
+
+Day 42/ 100: Jul 30, 2020
+*Today's Progress*:  Data Science 
+
+#### Topics covered.
+
+* numpy
+* Pandas
+* Series
+* List comprehentions
+* Querying
+* Boolean Masking in Pandas
+
+Day 43/ 100: Jul 31, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas
+* Series
+* Querying
+* DataFrame
+* Boolean Masking in Pandas
