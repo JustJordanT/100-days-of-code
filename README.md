@@ -823,13 +823,11 @@ Day 42/ 100: Jul 30, 2020
 * Querying
 * Boolean Masking in Pandas
 
-Day 43/ 100: Jul 31, 2020
+Day 44/ 100: Aug 1, 2020
 *Today's Progress*:  Data Science Coursera
 
 #### Topics covered.
 
 * Pandas
-* Series
-* Querying
-* DataFrame
-* Boolean Masking in Pandas
+* Python Automation
+* Nornir
