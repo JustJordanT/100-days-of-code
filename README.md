@@ -831,3 +831,13 @@ Day 44/ 100: Aug 1, 2020
 * Pandas
 * Python Automation
 * Nornir
+
+Day 45/ 100: Aug 2, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas
+* Python Automation
+* Nornir
+* ML Ops
