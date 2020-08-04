@@ -841,3 +841,25 @@ Day 45/ 100: Aug 2, 2020
 * Python Automation
 * Nornir
 * ML Ops
+
+
+
+Day 46/ 100: Aug 3, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas
+* Python Automation
+* Nornir
+* For loops in Pandas.
+
+Day 47/ 100: Aug 4, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas
+* Python Automation
+* Nornir
+* For loops in Pandas.
