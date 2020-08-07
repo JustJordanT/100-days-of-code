@@ -860,6 +860,25 @@ Day 47/ 100: Aug 4, 2020
 #### Topics covered.
 
 * Pandas
-* Python Automation
-* Nornir
-* For loops in Pandas.
+* Plotting
+* grouping in Pandas.
+
+Day 48/ 100: Aug 5, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas
+* grouping in Pandas.
+* Pandas Assignments
+* Project Ideas
+
+Day 49/ 100: Aug 6, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas
+* grouping in Pandas.
+* Pandas Assignments
+* Project Ideas
