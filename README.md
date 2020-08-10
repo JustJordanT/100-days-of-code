@@ -882,3 +882,37 @@ Day 49/ 100: Aug 6, 2020
 * grouping in Pandas.
 * Pandas Assignments
 * Project Ideas
+
+Day 50/ 100: Aug 7, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas
+* grouping in Pandas
+* Pandas Assignments
+* Pandas indexing
+
+
+
+Day 51/ 100: Aug 8, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas merging dataframes
+
+* Pandas idioms
+
+* Pandas Groupby
+
+* Pandas Scales
+
+* Pandas Pivot Tables
+
+* Data Functionality
+
+  
+
+
+
