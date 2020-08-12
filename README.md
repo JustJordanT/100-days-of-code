@@ -914,5 +914,30 @@ Day 51/ 100: Aug 8, 2020
 
   
 
+Day 52/ 100: Aug 9, 2020
+*Today's Progress*:  Data Science Coursera
 
+#### Topics covered.
 
+* Pandas Research
+
+* Python Data Analytics 
+
+  
+
+Day 53/ 100: Aug 10, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas merging
+* Python Lambda's
+
+Day 53/ 100: Aug 11, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas Data Cleaning
+* Data Importing. 
+* 
