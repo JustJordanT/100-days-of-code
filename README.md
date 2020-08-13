@@ -933,7 +933,7 @@ Day 53/ 100: Aug 10, 2020
 * Pandas merging
 * Python Lambda's
 
-Day 53/ 100: Aug 11, 2020
+Day 54/ 100: Aug 11, 2020
 *Today's Progress*:  Data Science Coursera
 
 #### Topics covered.
@@ -941,3 +941,14 @@ Day 53/ 100: Aug 11, 2020
 * Pandas Data Cleaning
 * Data Importing. 
 * 
+
+Day 55/ 100: Aug 12, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas cleaning
+* Data Importing.
+* Filtering data.
+* Replacing data in a dataset.
+
