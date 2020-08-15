@@ -952,3 +952,23 @@ Day 55/ 100: Aug 12, 2020
 * Filtering data.
 * Replacing data in a dataset.
 
+Day 56/ 100: Aug 13, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas cleaning
+* Filtering data.
+* Replacing data in a dataset.
+* Data Merging.
+
+Day 57/ 100: Aug 14, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas cleaning
+* Filtering data.
+* Replacing data in a dataset.
+* Data Merging.
+* Project research 
