@@ -972,3 +972,42 @@ Day 57/ 100: Aug 14, 2020
 * Replacing data in a dataset.
 * Data Merging.
 * Project research 
+
+Day 57/ 100: Aug 15, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Pandas correlation
+* Replacing data in a dataset.
+* Plotting in Pandas 
+* Project research
+
+Day 57/ 100: Aug 16, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* plottting
+* thoughts of getting over numpy 
+* Week4 
+
+Day 57/ 100: Aug 17, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* plottting
+* Data cleaning 
+* Week4 
+
+Day 57/ 100: Aug 18, 2020
+*Today's Progress*:  Data Science Coursera
+
+#### Topics covered.
+
+* Completed the course intro to Data Science in Python.
+* Data cleaning 
+* Completed week 4
+* statistics distrabutions. 
+* Covid daily data
