@@ -973,7 +973,7 @@ Day 57/ 100: Aug 14, 2020
 * Data Merging.
 * Project research 
 
-Day 57/ 100: Aug 15, 2020
+Day 58/ 100: Aug 15, 2020
 *Today's Progress*:  Data Science Coursera
 
 #### Topics covered.
@@ -983,7 +983,7 @@ Day 57/ 100: Aug 15, 2020
 * Plotting in Pandas 
 * Project research
 
-Day 57/ 100: Aug 16, 2020
+Day 59/ 100: Aug 16, 2020
 *Today's Progress*:  Data Science Coursera
 
 #### Topics covered.
@@ -992,7 +992,7 @@ Day 57/ 100: Aug 16, 2020
 * thoughts of getting over numpy 
 * Week4 
 
-Day 57/ 100: Aug 17, 2020
+Day 60/ 100: Aug 17, 2020
 *Today's Progress*:  Data Science Coursera
 
 #### Topics covered.
@@ -1001,7 +1001,7 @@ Day 57/ 100: Aug 17, 2020
 * Data cleaning 
 * Week4 
 
-Day 57/ 100: Aug 18, 2020
+Day 61/ 100: Aug 18, 2020
 *Today's Progress*:  Data Science Coursera
 
 #### Topics covered.
@@ -1011,3 +1011,75 @@ Day 57/ 100: Aug 18, 2020
 * Completed week 4
 * statistics distrabutions. 
 * Covid daily data
+
+
+
+Day 62/ 100: Aug 19, 2020
+*Today's Progress*:  Applied Plotting, Charting & Data Representation in Python
+
+#### Topics covered.
+
+* Matplotlib
+* Figure 
+* seaborn
+* pandas 
+* Visual data and usability.
+
+
+
+Day 63/ 100: Aug 19, 2020
+*Today's Progress*:  Applied Plotting, Charting & Data Representation in Python
+
+#### Topics covered.
+
+* Matplotlib
+* data cleaning 
+* seaborn
+* pandas 
+* Visual data and usability.
+* Projects
+
+Day 64/ 100: Aug 20, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Matplotlib
+* pandas 
+* Visual data and usability.
+* Machine Learning 
+
+
+
+Day 65/ 100: Aug 21, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Scikit-learn
+* KNN - (K-Nearest-Neighbors)
+  * Regression 
+
+Day 65/ 100: Aug 22, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Scikit-learn
+* KNN - (K-Nearest-Neighbors)
+
+Day 65/ 100: Aug 22, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Scikit-learn
+* KNN - (K-Nearest-Neighbors)
+
+Day 65/ 100: Aug 23, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Scikit-learn
+* KNN - (K-Nearest-Neighbors)
