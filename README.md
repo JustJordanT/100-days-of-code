@@ -1060,7 +1060,7 @@ Day 65/ 100: Aug 21, 2020
 * KNN - (K-Nearest-Neighbors)
   * Regression 
 
-Day 65/ 100: Aug 22, 2020
+Day 66/ 100: Aug 22, 2020
 *Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
 
 #### Topics covered.
@@ -1068,7 +1068,7 @@ Day 65/ 100: Aug 22, 2020
 * Scikit-learn
 * KNN - (K-Nearest-Neighbors)
 
-Day 65/ 100: Aug 22, 2020
+Day 67/ 100: Aug 22, 2020
 *Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
 
 #### Topics covered.
@@ -1076,10 +1076,31 @@ Day 65/ 100: Aug 22, 2020
 * Scikit-learn
 * KNN - (K-Nearest-Neighbors)
 
-Day 65/ 100: Aug 23, 2020
+Day 68/ 100: Aug 23, 2020
 *Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
 
 #### Topics covered.
 
 * Scikit-learn
 * KNN - (K-Nearest-Neighbors)
+
+
+
+Day 69/ 100: Aug 24, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Scikit-learn
+* KNN - (K-Nearest-Neighbors)
+
+Day 70/ 100: Aug 25, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Scikit-learn
+
+* KNN - (K-Nearest-Neighbors)
+
+  
