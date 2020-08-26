@@ -1100,13 +1100,20 @@ Day 70/ 100: Aug 25, 2020
 #### Topics covered.
 
 * Scikit-learn
-
 * KNN - (K-Nearest-Neighbors)
-
 * Regression
-
 * Data and applying it to applied ML 
-
 * Decision Intelligence.
 
-  
+
+
+Day 71/ 100: Aug 26, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Scikit-learn
+* KNN - (K-Nearest-Neighbors)
+* Regression
+* KNeighborsClassifier
+* KNN - Perimeters 
