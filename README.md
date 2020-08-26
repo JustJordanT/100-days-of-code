@@ -1103,4 +1103,10 @@ Day 70/ 100: Aug 25, 2020
 
 * KNN - (K-Nearest-Neighbors)
 
+* Regression
+
+* Data and applying it to applied ML 
+
+* Decision Intelligence.
+
   
