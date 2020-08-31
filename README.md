@@ -1128,7 +1128,7 @@ Day 72/ 100: Aug 27, 2020
 * Regression
 * KNeighborsClassifier
 * KNN - Perimeters
-* Overfitting 
+* Overfitting
 * Underfitting
 
 Day 73/ 100: Aug 28, 2020
@@ -1139,5 +1139,26 @@ Day 73/ 100: Aug 28, 2020
 * Regression
 * KNeighborsClassifier
 * KNN - Perimeters
-* Overfitting 
+* Overfitting
+* Underfitting
+
+Day 74/ 100: Aug 29, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regression
+* KNeighborsClassifier
+* KNN - Perimeters
+* Overfitting
+* Underfitting
+
+Day 75/ 100: Aug 30, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regression
+* Classification
+* Overfitting
 * Underfitting
