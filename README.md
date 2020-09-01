@@ -1162,3 +1162,16 @@ Day 75/ 100: Aug 30, 2020
 * Classification
 * Overfitting
 * Underfitting
+
+Day 76/ 100: Aug 31, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regression
+* Classification
+* Overfitting
+* Underfitting
+* Ridge Regression
+* Linear Regression
+* Lasso Regression
