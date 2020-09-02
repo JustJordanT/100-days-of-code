@@ -1175,3 +1175,15 @@ Day 76/ 100: Aug 31, 2020
 * Ridge Regression
 * Linear Regression
 * Lasso Regression
+
+
+Day 77/ 100: Sep 1, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regression
+* Overfitting
+* Underfitting
+* Logistic Regressions
+* Support Vector Machine
