@@ -1187,3 +1187,112 @@ Day 77/ 100: Sep 1, 2020
 * Underfitting
 * Logistic Regressions
 * Support Vector Machine
+
+Day 78/ 100: Sep 2, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Logistic Regressions
+* Support Vector Machine
+* Linear Algebra
+* Mathematics Research
+
+Day 79/ 100: Sep 3, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Logistic Regressions
+* Support Vector Machine
+* Linear Algebra
+* Mathematics Research
+
+Day 80/ 100: Sep 4, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Logistic Regressions
+* Support Vector Machine
+* Linear Algebra
+* Mathematics Research
+
+Day 81/ 100: Sep 5, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Logistic Regressions
+* Support Vector Machine
+* Linear Algebra
+* Mathematics Research
+
+Day 82/ 100: Sep 6, 2020
+*Today's Progress*:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Logistic Regressions
+* Support Vector Machine
+* Linear Algebra
+* Mathematics Research
+
+Day 83/ 100: Sep 7:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Logistic Regressions
+* Support Vector Machine
+* Linear Algebra
+* Mathematics Research
+
+Day 84/100: Sep 9:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Week 3
+* Week 4
+* Algebra
+
+Day 86/100: Sep 11:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regex
+* String clean
+* String Manipulation
+
+Day 87/100: Sep 12:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regex
+* String clean
+* String Manipulation
+
+Day 88/100: Sep 13:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regex
+* String clean
+* String Manipulation
+
+Day 89/100: Sep 14:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regex
+* String clean
+* Pandas
+* String Manipulation
+
+Day 90/100: Sep 15:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* Regex
+* String clean
+* Pandas
+* String Manipulation
