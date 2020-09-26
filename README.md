@@ -1322,3 +1322,69 @@ Day 93/100: Sep 18:  Streamlit Covid project
 * Data Science
 * Seabron
 * Matplotlib
+
+Day 94/100: Sep 19:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Numpy
+* Data Science
+* Seabron
+* Matplotlib
+
+Day 95/100: Sep 20:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Numpy
+* Data Science
+* Seabron
+* Matplotlib
+
+Day 96/100: Sep 21:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Numpy
+* Data Science
+* Seabron
+* Matplotlib
+
+Day 97/100: Sep 22:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Numpy
+* Data Science
+* Seabron
+* Matplotlib
+
+Day 98/100: Sep 23:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Numpy
+* Data Science
+* Seabron
+* Matplotlib
+
+Day 99/100: Sep 23:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Numpy
+* Data Science
+* Seabron
+* Matplotlib
