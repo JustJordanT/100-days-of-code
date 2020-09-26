@@ -1296,3 +1296,29 @@ Day 90/100: Sep 15:  [Applied Machine Learning in Python](https://www.coursera.o
 * String clean
 * Pandas
 * String Manipulation
+
+Day 91/100: Sep 16:  [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+
+Day 92/100: Sep 17:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Data Science
+
+Day 93/100: Sep 18:  Streamlit Covid project
+
+#### Topics covered.
+
+* streamlit application
+* Pandas
+* Numpy
+* Data Science
+* Seabron
+* Matplotlib
